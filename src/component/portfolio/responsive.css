@@ -1,0 +1,23 @@
+@media (min-width: 375px) and (max-width: 576px) {
+    #portfolio-part {
+        padding: 40px 20px;
+    }
+
+    .port-head p{
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    .portfolio-item {
+        width: 100%;
+    }
+
+    .inner-page{
+        max-width: 100%;
+        max-height: 500px;
+    }
+
+    .inner-page img{
+        height: 30%;
+    }
+}

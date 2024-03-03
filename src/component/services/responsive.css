@@ -1,0 +1,9 @@
+@media (min-width: 375px) and (max-width: 576px) {
+    #service-part {
+        padding: 40px 20px;
+    }
+
+    .all-service {
+        margin-left: 20px;
+    }
+}

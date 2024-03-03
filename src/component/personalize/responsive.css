@@ -1,0 +1,25 @@
+@media (min-width: 375px) and (max-width: 576px){ 
+    .info-part{
+        padding: 40px 0;
+        margin-left: 20px;
+    }
+
+    .info-body{
+        margin-top: 20px;
+    }
+
+    .info-body h3{
+        font-size: 22px;
+        font-weight: 400;
+    }
+
+    .details span {
+        margin-right: 10px;
+        font-size: 14px;
+    }
+
+    .d-name{
+        max-width: 20%;
+        margin-right: 60px;
+    }
+}

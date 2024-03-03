@@ -1,0 +1,20 @@
+@media (min-width: 375px) and (max-width: 576px) {
+    #skill-part{
+        padding: 40px 20px;
+    }
+
+    #skill-part h3{
+        font-size: 22px;
+        font-weight: 500;
+    }
+
+    #skill-part .text{
+        font-size: 22px;
+        font-weight: 500;
+    }
+
+    .skill-item{
+        padding: 30px;
+    }
+
+}

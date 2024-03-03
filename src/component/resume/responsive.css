@@ -1,0 +1,42 @@
+@media (min-width: 375px) and (max-width: 576px){
+    #resume-part{
+        padding: 40px 20px;
+    }
+
+    .resume-head {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .resume-head h3{
+        font-size: 24px;
+    }
+
+    .ecducation-part {
+        position: relative;
+        padding-left: 30px;
+        padding-bottom: 20px;
+    }
+
+    .ecducation-part .year{
+        margin-bottom: 20px;
+    }
+
+    .ecducation-part .year span{
+        font-size: 14px;
+        
+    }
+
+    .ecducation-part h3{
+        font-size: 16px;
+    }
+
+    .ecducation-part .institute {
+        font-size: 16px;
+    }
+
+    .ecducation-part p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+}
